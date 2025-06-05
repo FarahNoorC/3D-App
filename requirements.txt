@@ -1,5 +1,5 @@
 streamlit
 pandas
+numpy
 matplotlib
-seaborn
-openpyxl  # Required for reading Excel files (.xlsx)
+scikit-learn
